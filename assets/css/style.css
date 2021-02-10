@@ -24,3 +24,7 @@ h1{
     max-height: 150px;
     overflow-y: hidden;
   }
+
+  footer i{
+      color: white;
+  }
