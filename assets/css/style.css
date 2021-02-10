@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: black;
     }
 
 nav img{
@@ -15,6 +16,11 @@ h1{
     font-size: 1.5rem;
 }
 
-.main-section{
-    background-color: black;
+.seccion-2{
+    display: inline-block;
 }
+
+.imagen {
+    max-height: 150px;
+    overflow-y: hidden;
+  }
